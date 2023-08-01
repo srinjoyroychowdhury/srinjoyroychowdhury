@@ -6,11 +6,3 @@ Hi 👋 Srinjoy Roychowdhury here.
 
 🎯I thrive on crafting efficient and elegant solutions to complex challenges, applying my knowledge  to develop robust applications.
 
-✨Beyond programming and development, I am also well-versed in Social Media Marketing,Content Creation, Brand Management and Campaigns, Photography and Videography. My expertise in leveraging real-world data to drive targeted marketing campaigns has consistently delivered significant results for the brands I have worked with.
-
-🖼️With my expertise in Content Creation, I have honed the skills necessary to produce visually appealing designs and create captivating content. Proficiency in  Adobe Lightroom, Canva, and Photoshop.
-
-📊Proficient in Microsoft Word, MS Excel, and PowerPoint.
-
-
-🌟I am open to exciting opportunities and collaborations, so feel free to connect with me. 
