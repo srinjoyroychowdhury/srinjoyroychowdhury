@@ -7,7 +7,7 @@
 - 🌐Furthermore, I have honed my skills in HTML5, CSS3, Bootstrap and JavaScript to create captivating and responsive frontend websites. Additionally, my knowledge in PHP enables me to develop dynamic backends, facilitating seamless data handling and interactions. I also possess knowledge about the Software Development Lifecycle, ensuring the successful delivery of a multitude of projects.
 
 - 🎯I thrive on crafting efficient and elegant solutions to complex challenges, applying my knowledge  to develop robust applications.
-  
+- My portfolio showcases a diverse range of successfully completed projects that highlight my skills and dedication.
 - 👨‍💻 All of my projects are available at [https://github.com/srinjoyroychowdhury/webdevelopment](https://github.com/srinjoyroychowdhury/webdevelopment)
 ![a](https://github.com/srinjoyroychowdhury/srinjoyroychowdhury/assets/141168076/29538005-36cf-4503-b4c4-c24bd1aa4b62)
 -  Beyond programming and development, I am also well-versed in Social Media Marketing,Content Creation, Brand Management and Campaigns, Photography and Videography. My expertise in leveraging real-world data to drive targeted marketing campaigns has consistently delivered significant results for the brands I have worked
